@@ -9,11 +9,7 @@
 
 ### Goal
 
-To help the bank and house buyer evaluate the value of house, and make better investment, the goal of our project is to predict the house price through the attributes of house. The format and structure of the data is displayed below:
-
-![](./img/data_format.png)
-
-In the data, each row of the data is a sample house with price label, with columns of attributes. In other words, figure out the relationship between each attribute and house price through machine learning technique is our main task.
+To help the bank and house buyer evaluate the value of house, and make better investment, the goal of our project is to predict the house price through the attributes of house.
 
 ### Demo
 
@@ -26,21 +22,26 @@ We also provide interative data visualization at shinyapp.io link below:
 
 <a href = "https://pingchou.shinyapps.io/shiny/?fbclid=IwAR3Wi6-ZC2quD7R2bB7YCFNt86d1CN2pPJOdhkEFNL7eJw3pfR-XQD1AB8o">Click me to redirect to shinyapp.io</a>
 
+![](./img/shinyapp.png)
+
 ## Folder organization and its related information
 
 ### docs
-* Your presentation, 1072_datascience_FP_<yourID|groupName>.ppt/pptx/pdf, by **Jun. 25**
-* Any related document for the final project
-  * papers
-  * software user guide
+
+* Our project introduction document is placed at the path below
+  * 'docs/1072_datascience_FP_nccu_stat_mis.pptx'
+  * 'docs/1072_datascience_FP_nccu_stat_mis.pdf'
 
 ### data
 
-* Source
-* Input format
-* Any preprocessing?
-  * Handle missing data
-  * Scale value
+* Source: Kaggle competition '<a href = "House Prices: Advanced Regression Techniques">House Prices: Advanced Regression Techniques'</a>
+* Input format: The format and structure of the data is displayed below:
+
+![](./img/data_format.png)
+
+In the data, each row of the data is a sample house with price label, with columns of attributes. In other words, figure out the relationship between each attribute and house price through machine learning technique is our main task.
+
+* Preprocessing: Due to large number of variable, please refer to the inserted .pdf file in the introduction document.
 
 ### code
 
