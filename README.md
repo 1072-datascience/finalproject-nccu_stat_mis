@@ -5,7 +5,7 @@
 * < 陳柏勳, 107354001 >
 * < 楊博安, 107354003 >
 * < 林威均, 108354005 >
-* 
+* < 周平, 106356007 >
 
 ### Goal
 A breif introduction about your project, i.e., what is your goal?
@@ -13,7 +13,7 @@ A breif introduction about your project, i.e., what is your goal?
 ### Demo 
 You should provide an example commend to reproduce your result
 ```R
-Rscript code/your_script.R --input data/training --output results/performance.tsv
+Rscript code/group_9.R --input data/data.rds --output results/performance.tsv
 ```
 * any on-line visualization
 
