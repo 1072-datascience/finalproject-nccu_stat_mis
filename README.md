@@ -40,6 +40,10 @@ We also provide interative data visualization at shinyapp.io link below:
 ![](./img/data_format.png)
 
 * Preprocessing: Due to large numbers of variable, please refer to the introduction document.
+  * Missing value processing
+  * Ordered value transformation
+  * Confusing empty value transformation
+  * Deleting nearly constant column
 
 ### code
 
