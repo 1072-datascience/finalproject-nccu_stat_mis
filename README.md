@@ -35,11 +35,9 @@ We also provide interative data visualization at shinyapp.io link below:
 ### data
 
 * Source: Kaggle competition '<a href = "House Prices: Advanced Regression Techniques">House Prices: Advanced Regression Techniques'</a>
-* Input format: The format and structure of the data is displayed below:
+* Input format: In the data, each row of the data is a sample house with price label, with columns of attributes. In other words, figure out the relationship between each attribute and house price through machine learning technique is our main task. The format and structure of the data is displayed below:
 
 ![](./img/data_format.png)
-
-In the data, each row of the data is a sample house with price label, with columns of attributes. In other words, figure out the relationship between each attribute and house price through machine learning technique is our main task.
 
 * Preprocessing: Due to large number of variable, please refer to the inserted .pdf file in the introduction document.
 
