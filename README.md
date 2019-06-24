@@ -9,7 +9,7 @@
 
 ### Goal
 
-To help the bank and house buyer evaluate the value of house, and make better investment, the goal of our project is to predict the house price through the attributes of house. In the data, each row of the data is a sample house with price label, with columns of attributes. In other words, figure out the relationship between each attribute and house price through machine learning technique is our major task.
+To help the bank and house buyer evaluate the value of house, and make better investment, the goal of our project is to predict the house price through the attributes of house.
 
 ### Demo
 
@@ -34,12 +34,12 @@ We also provide interative data visualization at shinyapp.io link below:
 
 ### data
 
-* Source: Kaggle competition '<a href = "House Prices: Advanced Regression Techniques">House Prices: Advanced Regression Techniques'</a>
+* Source: Kaggle competition '<a href = "https://www.kaggle.com/c/house-prices-advanced-regression-techniques">House Prices: Advanced Regression Techniques'</a>
 * Input format: The format and structure of the data is displayed below:
 
 ![](./img/data_format.png)
 
-* Preprocessing: Due to large number of variable, please refer to the inserted .pdf file in the introduction document.
+* Preprocessing: Due to large numbers of variable, please refer to the introduction document.
 
 ### code
 
