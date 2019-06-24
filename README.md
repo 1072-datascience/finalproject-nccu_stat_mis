@@ -47,18 +47,29 @@ We also provide interative data visualization at shinyapp.io link below:
 
 ### code
 
-* Which method do you use?
-* What is a null model for comparison?
-* How do your perform evaluation? ie. Cross-validation, or extra separated data
+* Null Model(baseline): Regression Tree with Pruning
+* Our research model:
+  1. Random Forest
+  2. Extreme Gradient Boosting(xgboost)
+  3. Support Vector Regression(SVR)
+* Evaluation: Cross-validation with validation loss
 
 ### results
 
-* Which metric do you use 
-  * precision, recall, R-square
-* Is your improvement significant?
+* Performance evaluation metric: RMSE and RMSLE
+* Significance: 
+  * Decision Tree(baseline)
+  ![](./img/performance_decision_tree.png)
+  * Research Model1 - Random Forest
+  ![](./img/performance_random_forest.png)
+  * Research Model2 - Extreme Gradient Boosting(xgboost)
+  ![](./img/performance_xgboost.png)
+  * Research Model3 - Support Vector Regression(SVR)
+  ![](./img/performance_svr.png)
 * What is the challenge part of your project?
 
 ## Reference
+
 * Code/implementation which you include/reference (__You should indicate in your presentation if you use code for others. Otherwise, cheating will result in 0 score for final project.__)
 * Packages you use
 * Related publications
