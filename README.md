@@ -5,12 +5,16 @@
 * < 陳柏勳, 107354001 >
 * < 楊博安, 107354003 >
 * < 林威均, 108354005 >
-* < 周平, 106356007 >
+* < 周　平, 106356007 >
 
 ### Goal
-A breif introduction about your project, i.e., what is your goal?
 
-### Demo 
+To help the bank and house buyer evaluate the value of house, and make better investment, the goal of our project is to predict the house price through the attributes of house. The format and structure of the data is displayed below:
+
+![](./img/data_format.png)
+
+### Demo
+
 You should provide an example commend to reproduce your result
 ```R
 Rscript code/group_9.R --input data/data.rds --output results/performance.tsv
