@@ -2,9 +2,10 @@
 
 ### Groups
 * < 陳庭偉, 104304041 >
-* < name, student ID2 >
-* < name, student ID3 >
-* ...
+* < 陳柏勳, 107354001 >
+* < 楊博安, 107354003 >
+* < 林威均, 108354005 >
+* 
 
 ### Goal
 A breif introduction about your project, i.e., what is your goal?
