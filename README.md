@@ -17,11 +17,14 @@ In the data, each row of the data is a sample house with price label, with colum
 
 ### Demo
 
-You should provide an example commend to reproduce your result
+You can pull the repository, and then run the command below to replicate our outcome:
+
 ```R
 Rscript code/group_9.R --input data/data.rds --output results/performance.tsv
 ```
-* any on-line visualization
+We also provide interative data visualization at shinyapp.io link below:
+
+<a href = "https://pingchou.shinyapps.io/shiny/?fbclid=IwAR3Wi6-ZC2quD7R2bB7YCFNt86d1CN2pPJOdhkEFNL7eJw3pfR-XQD1AB8o">Click me to redirect to shinyapp.io</a>
 
 ## Folder organization and its related information
 
