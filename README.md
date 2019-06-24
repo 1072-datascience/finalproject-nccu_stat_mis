@@ -74,12 +74,30 @@ We also provide interative data visualization at shinyapp.io link below:
   
   ![](./img/performance_svr.png)
   
-* What is the challenge part of your project?
+* Challenge of our project:
+  * Null model selection: complex regression predict fail due to drop unused column problem
+  * Lack of domain know-how: unfamiliar with relationship between feature & target 
 
 ## Reference
 
-* Code/implementation which you include/reference (__You should indicate in your presentation if you use code for others. Otherwise, cheating will result in 0 score for final project.__)
-* Packages you use
-* Related publications
+* Website
+  * https://cloud.tencent.com/developer/article/1005033
+  * https://github.com/topepo/caret/issues/336
+  * https://www.rdocumentation.org/packages/xgboost/versions/0.6.4.1/topics/xgb.importance
+  * https://steve-chen.tw/?p=369
+  * https://www.kaggle.com/c/house-prices-advanced-regression-techniques/overview
+  * https://www.kaggle.com/erikbruin/house-prices-lasso-xgboost-and-a-detailed-eda
+  * https://www.dehong.space/XGBoost
+  * https://zhuanlan.zhihu.com/p/24577989
+  * https://zhuanlan.zhihu.com/p/49049535
+  * https://zhuanlan.zhihu.com/p/51586879
+* Document
+  * An Introduction to Statistical Learning, Gareth James Daniela Witten Trevor Hastie Robert Tibshirani
+  * A tutorial on support vector regression, ALEX J. SMOLA and BERNHARD SCHOLKOPF, Statistics and Computing 14: 199–222, 2004
+  * A support vector regression model for predicting tunnel boring machine penetration rates, Satar Mahdevari, Kourosh Shahriar, Saffet Yagiz and Mohsen Akbarpour Shirazi, International Journal of Rock Mechanics & Mining Sciences 72 (2014) 214–229
+  * Support Vector Machine Regression, http://kernelsvm.tripod.com/,2019/06/24
+* Online Course
+  * 林軒田教授機器學習技法，https://www.csie.ntu.edu.tw/~htlin/mooc/
+  
 
 
