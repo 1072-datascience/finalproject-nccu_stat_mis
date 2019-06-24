@@ -59,13 +59,21 @@ We also provide interative data visualization at shinyapp.io link below:
 * Performance evaluation metric: RMSE and RMSLE
 * Significance: 
   * Decision Tree(baseline)
+  
   ![](./img/performance_decision_tree.png)
+  
   * Research Model1 - Random Forest
+  
   ![](./img/performance_random_forest.png)
+  
   * Research Model2 - Extreme Gradient Boosting(xgboost)
+  
   ![](./img/performance_xgboost.png)
+  
   * Research Model3 - Support Vector Regression(SVR)
+  
   ![](./img/performance_svr.png)
+  
 * What is the challenge part of your project?
 
 ## Reference
