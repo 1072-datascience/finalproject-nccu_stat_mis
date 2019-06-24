@@ -1,4 +1,4 @@
-# < House Price Prediction by Machine Learning: Random Forest, XGBoost and SVR >
+# < House Price Prediction by Machine Learning >
 
 ### Groups
 * < 陳庭偉, 104304041 >
