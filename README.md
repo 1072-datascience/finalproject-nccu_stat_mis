@@ -13,6 +13,8 @@ To help the bank and house buyer evaluate the value of house, and make better in
 
 ![](./img/data_format.png)
 
+In the data, each row of the data is a sample house with price label, with columns of attributes. In other words, figure out the relationship between each attribute and house price through machine learning technique is our main task.
+
 ### Demo
 
 You should provide an example commend to reproduce your result
