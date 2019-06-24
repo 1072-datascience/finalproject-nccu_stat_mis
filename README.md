@@ -1,7 +1,7 @@
 # < Title of your final project >
 
 ### Groups
-* < name, student ID1 >
+* < 陳庭偉, 104304041 >
 * < name, student ID2 >
 * < name, student ID3 >
 * ...
