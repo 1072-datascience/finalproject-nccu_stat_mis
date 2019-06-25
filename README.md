@@ -80,6 +80,16 @@ We also provide interative data visualization at shinyapp.io link below:
 
 ## Reference
 
+* Package
+  * ggplot2
+  * ggpubr
+  * rpart
+  * rpart.plot
+  * rattle
+  * randomForest
+  * e1071
+  * xgboost
+
 * Website
   * https://cloud.tencent.com/developer/article/1005033
   * https://github.com/topepo/caret/issues/336
